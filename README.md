@@ -19,12 +19,12 @@
 ## Datasets used:
 
 #### 1) Agriculture crop production in India
-##### Link: https://www.kaggle.com/srinivas1/agricuture-crops-production-in-india?select=datafile+%282%29.csv
+Link: https://www.kaggle.com/srinivas1/agricuture-crops-production-in-india?select=datafile+%282%29.csv
 
 #### 2) Rainfall in India
-##### Link: https://data.world/rajanand/rainfall-in-india/workspace/file?filename=rainfall+in+india+1901-2015.csv
+Link: https://data.world/rajanand/rainfall-in-india/workspace/file?filename=rainfall+in+india+1901-2015.csv
 
 #### 3) Environment indicators in India
-##### Link: https://data.world/hdx/892f72f8-29b5-451e-8d27-7b89d1c45f63/workspace/file?filename=environment-indicators-for-india-1.csv
+Link: https://data.world/hdx/892f72f8-29b5-451e-8d27-7b89d1c45f63/workspace/file?filename=environment-indicators-for-india-1.csv
 
 <img width="400" alt="Screenshot 2020-08-07 at 11 15 04 PM" src="https://user-images.githubusercontent.com/54894091/89673436-f8c4d580-d903-11ea-8613-2d3433068817.png">
