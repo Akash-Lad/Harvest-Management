@@ -1,6 +1,6 @@
 # Data Analytics project using R-Studio
 
-## Harvest-Management                               
+## Harvest Management                               
 
 <img width="400" alt="Screenshot 2020-08-07 at 11 37 15 PM" src="https://user-images.githubusercontent.com/54894091/89675118-03349e80-d907-11ea-9503-b963882cb425.png">
 
